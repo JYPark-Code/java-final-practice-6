@@ -1,6 +1,5 @@
 package oncall.domain.calander;
 
-import java.time.DayOfWeek;
 import java.util.Map;
 
 public enum DayOfWeekKorean {
