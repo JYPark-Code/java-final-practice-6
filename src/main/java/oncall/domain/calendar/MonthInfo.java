@@ -1,4 +1,4 @@
-package oncall.domain.calander;
+package oncall.domain.calendar;
 
 public class MonthInfo {
 

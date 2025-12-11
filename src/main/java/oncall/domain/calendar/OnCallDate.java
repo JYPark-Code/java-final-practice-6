@@ -1,7 +1,7 @@
-package oncall.domain.calander;
+package oncall.domain.calendar;
 
-import static oncall.domain.calander.DayOfWeekKorean.일;
-import static oncall.domain.calander.DayOfWeekKorean.토;
+import static oncall.domain.calendar.DayOfWeekKorean.일;
+import static oncall.domain.calendar.DayOfWeekKorean.토;
 
 public class OnCallDate {
 

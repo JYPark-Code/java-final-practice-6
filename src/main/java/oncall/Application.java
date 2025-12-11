@@ -1,9 +1,9 @@
 package oncall;
 
-import oncall.domain.calander.CalendarGenerator;
-import oncall.domain.calander.DayOfWeekKorean;
-import oncall.domain.calander.MonthInfo;
-import oncall.domain.calander.OnCallDate;
+import oncall.domain.calendar.CalendarGenerator;
+import oncall.domain.calendar.DayOfWeekKorean;
+import oncall.domain.calendar.MonthInfo;
+import oncall.domain.calendar.OnCallDate;
 
 import java.util.List;
 
