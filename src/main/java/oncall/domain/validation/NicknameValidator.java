@@ -13,7 +13,7 @@ public class NicknameValidator {
     private NicknameValidator() {
     }
 
-    private static void validate(List<String> names){
+    public static void validate(List<String> names){
         validateNullOrEmpty(names);
         validateSize(names);
         validateNames(names);

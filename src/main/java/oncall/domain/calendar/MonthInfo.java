@@ -6,6 +6,7 @@ public class MonthInfo {
     private final DayOfWeekKorean startDay;
 
     public MonthInfo(int month, DayOfWeekKorean startDay) {
+        validateMonth(month);
         this.month = month;
         this.startDay = startDay;
 
